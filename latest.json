@@ -1,0 +1,10 @@
+{
+  "version": "0.0.0",
+  "min_version": "0.0.0",
+  "release_date": "2026-10-03",
+  "notes_fa": "این یک فایل placeholder است. تا زمانی که نسخه واقعی منتشر نشود، نوار آپدیت در برنامه نمایش داده نمی‌شود.",
+  "installer_url": "https://github.com/dahaghincyber/TestBankEngine-releases/releases/download/v0.0.0/placeholder.exe",
+  "installer_size": 0,
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "mandatory": false
+}
