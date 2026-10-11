@@ -9,7 +9,8 @@
 
 **[دانلود آخرین نسخه](https://github.com/dahaghincyber/TestBankEngine-releases/releases/latest)**
 
-فایل `TestBankEngine-Setup-v2.6.17.exe` (۴۷٫۶۳ مگابایت) را دانلود کنید.
+نام فایل نصب با هر نسخه عوض می‌شود — `TestBankEngine-Setup-vX.Y.Z.exe` — پس لینکِ بالا را
+باز کنید؛ همان همیشه تازه‌ترین را نشان می‌دهد و این صفحه به ویرایش نیاز ندارد.
 
 ## نصب
 
